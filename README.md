@@ -43,3 +43,6 @@ AI assistance was used only for drafting explanations, debugging guidance, and f
 ## Instructions:
 ``` bash 
 make
+make clean
+make fclean
+make re
